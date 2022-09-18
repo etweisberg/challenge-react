@@ -1,7 +1,15 @@
 1. How many hours did you spend on this challenge?
 
+Roughly 4-5
+
 2. Describe the features you have implemented.
+
+I used React Bootstrap for styling. I implemented the generation of the form using the data.json file. I implemented form validation so that you had to pick an answer for each question. I implemented a modal for the result because I thought that looked good that upon exiting restarts the quiz.
 
 3. Describe the difficulties you faced (if any) while working on the challenge and how you tackled them.
 
+I'm still very much learning React. I am much more familiar with Python web development and backend. So, I did struggle quite a bit with misunderstanding the syntax and finding effective means to debug. I also am not great at structuring these projects, as can be seen here. I would have liked to use more components but because I am not super familiar with state in React, I felt limited in my ability to pass around data between components.
+
 4. How much time can you spend each week working for DP Developers?
+
+3-5 hours.
